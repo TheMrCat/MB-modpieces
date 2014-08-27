@@ -3,7 +3,7 @@
         <box id="Body" w="2.45" h="2.630" d="5.25">
             <translate>
                 <y type="rand" min="4.565" max="4.565"/>
-                <z type="rand" min="-0.2" max="-0.2"/>
+                <z type="rand" min="-0.08" max="-0.08"/>
             </translate>
 			
             
