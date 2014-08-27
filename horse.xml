@@ -1,8 +1,9 @@
 <model>
     <box id="root" w="0" h="0" d="0">
-        <box id="Body" w="0.487" h="0.526" d="1">
+        <box id="Body" w="0.49" h="0.526" d="1.05">
             <translate>
                 <y type="rand" min="0.913" max="0.913"/>
+                <7 type="rand" min="0.04" max="0.04"/>
             </translate>
 			
             
