@@ -47,7 +47,7 @@
         		</textures>
         		<translate>
         			<x type="rand" min="0.089" max="0.089"/>
-        			<y type="rand" min="1.828" max="1.828"/>
+        			<y type="rand" min="1.82" max="1.82"/>
         			<z type="rand" min="-0.71" max="-0.71"/>
         		</translate>
         		<rotate>
@@ -66,7 +66,7 @@
         		</textures>
         		<translate>
         			<x type="rand" min="-0.089" max="-0.089"/>
-        			<y type="rand" min="1.828" max="1.828"/>
+        			<y type="rand" min="1.82" max="1.82"/>
         			<z type="rand" min="-0.71" max="-0.71"/>
         		</translate>
         		<rotate>
