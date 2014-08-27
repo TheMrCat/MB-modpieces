@@ -35,6 +35,45 @@
                 <x type="rand" min="-22.505" max="-22.505"/>
 			</rotate>			
         </box>
+        
+        	<box id="right_ear" w="0.06" h="0.1" d="0.02">
+        		<textures>
+        			<front x="0.125" y="0.25" w="0.03125" h="0.125"/>
+        			<back x="0.125" y="0.375" w="0.03125" h="0.125"/>
+        			<left x="0.125" y="0.5" w="0.03125" h="0.125"/>
+        			<right x="0.125" y="0.5" w="0.03125" h="0.125"/>
+        			<top x="0.125" y="0.625" w="0.03125" h="0.0625"/>
+        			<bottom x="0.125" y="0.6875" w="0.03125" h="0.0625"/>
+        		</textures>
+        		<translate>
+        			<x type="rand" min="0.089" max="0.089"/>
+        			<y type="rand" min="1.828" max="1.828"/>
+        			<z type="rand" min="-0.71" max="-0.71"/>
+        		</translate>
+        		<rotate>
+        			<x type="rand" min="-16" max="-16"/>
+        		</rotate>
+        	</box>
+        
+        	<box id="left_ear" w="0.06" h="0.1" d="0.02">
+        		<textures>
+        			<front x="0.125" y="0.25" w="0.03125" h="0.125"/>
+        			<back x="0.125" y="0.375" w="0.03125" h="0.125"/>
+        			<left x="0.125" y="0.5" w="0.03125" h="0.125"/>
+        			<right x="0.125" y="0.5" w="0.03125" h="0.125"/>
+        			<top x="0.125" y="0.625" w="0.03125" h="0.0625"/>
+        			<bottom x="0.125" y="0.6875" w="0.03125" h="0.0625"/>
+        		</textures>
+        		<translate>
+        			<x type="rand" min="-0.089" max="-0.089"/>
+        			<y type="rand" min="1.828" max="1.828"/>
+        			<z type="rand" min="-0.71" max="-0.71"/>
+        		</translate>
+        		<rotate>
+        			<x type="rand" min="-16" max="-16"/>
+        		</rotate>
+        	</box>
+        
 		<box id="Neck" w="0.288" h="0.739" d="0.307">
             <textures>
                 <front  x="0.15625" y="0.25"   w="0.125" h="0.25"/>
@@ -89,7 +128,7 @@
             <translate>
                 <x type="rand" min="-0.160" max="-0.160"/>
                 <y type="rand" min="0.973" max="0.973"/>
-                <z type="rand" min="-0.435" max="-0.435"/>
+                <z type="rand" min="-0.457" max="-0.457"/>
             </translate>
             <rotate>
                 <x type="sin" min="-20" max="20"/>
@@ -113,7 +152,7 @@
             <translate>
                 <x type="rand" min="0.160" max="0.160"/>
                 <y type="rand" min="0.973" max="0.973"/>
-                <z type="rand" min="-0.435" max="-0.435"/>
+                <z type="rand" min="-0.457" max="-0.457"/>
             </translate>
             <rotate>
                 <x type="sin" min="20" max="-20"/>
